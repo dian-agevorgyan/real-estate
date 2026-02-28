@@ -69,8 +69,3 @@ php artisan orchid:admin
 ```bash
 php artisan db:seed --class=RealEstateSeeder
 ```
-
-Создаёт 3 комплекса с полной иерархией и ~50–700 помещений.
-=======
-# real-estate
->>>>>>> 9cd1dbf37cdd34a79c8db61929bde5bccc9f135b
